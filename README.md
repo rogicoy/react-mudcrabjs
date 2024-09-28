@@ -1,2 +1,2 @@
 # react-mudcrabjs
-mudcrab js prototype project
+Dive into the thrilling world of Mudcrab JS!
